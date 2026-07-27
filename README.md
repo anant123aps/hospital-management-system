@@ -1,16 +1,16 @@
-Hotel Management System
+Hospital Management System
 
 Overview
 
-This is a Python console-based Hotel Management System developed to manage hotel room bookings and customer details.
+This is a Python console-based Hospital Management System developed to manage patient records and basic hospital operations.
 
 Features
 
-- View available rooms
-- Book a room
-- Check customer details
-- Check room availability
-- Cancel a booking
+- Add new patient records
+- View all patient details
+- Search for a patient
+- Update patient information
+- Delete patient records
 - Exit the application
 
 Technologies Used
@@ -28,7 +28,11 @@ How to Run
 2. Download or clone this repository.
 3. Open the project folder in VS Code or any Python IDE.
 4. Run the Python file:
-   python hotel_management.py
+   python hospital_management.py
+
+Project Objective
+
+The project demonstrates the use of Python programming concepts such as dictionaries, lists, loops, functions, and conditional statements to create a simple hospital management application.
 
 Author
 
